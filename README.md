@@ -20,7 +20,16 @@ This project analyzes hotel booking data to understand hospitality business perf
 - Cleaned and prepared the hotel booking dataset using SQL Server.
 - Created the final cleaned table: `dbo.Hotel_Bookings_Cleaned`.
 - Final cleaned dataset contains 800 records.
+## Key Performance Indicators (KPIs)
 
+| KPI | Result |
+|---|---:|
+| Total Bookings | 800 |
+| Total Revenue | ₹15.81M |
+| Total Operating Cost | ₹6.08M |
+| Net Profit | ₹9.73M |
+| Cancellation Rate | 8.50% |
+| Avg Stay | 3.91 |
 ## Dashboard Preview
 ![Hotel Vinyasa Dashboard](Final%20Dashboard%20Screenshot.png)
 
