@@ -1,0 +1,33 @@
+# Hotel Vinyasa – Hospitality Performance Analytics
+
+## Project Overview
+This project analyzes hotel booking data to understand hospitality business performance, booking patterns, and customer trends using SQL Server and Tableau.
+
+## Project Objectives
+- Analyze hotel booking information.
+- Understand booking trends and patterns.
+- Prepare data for analysis.
+- Present business insights through a Tableau dashboard.
+
+## Tools & Technologies
+- SQL Server 2025 Express
+- SQL Server Management Studio (SSMS 22)
+- SQL
+- Tableau Desktop
+
+## Data Cleaning
+- Created the database `HotelVinyasaDB`.
+- Cleaned and prepared the hotel booking dataset using SQL Server.
+- Created the final cleaned table: `dbo.Hotel_Bookings_Cleaned`.
+- Final cleaned dataset contains 800 records.
+
+## Dashboard Preview
+![Hotel Vinyasa Dashboard](Final%20Dashboard%20Screenshot.png)
+
+## Project Files
+- `Hotel_Vinyasa_Hospitality_Analytics_Dataset.xlsx` – Original hotel booking dataset.
+- `Cleaned Dataset.xlsx` – Final cleaned dataset.
+- `Final Dashboard Screenshot.png` – Tableau dashboard preview.
+
+## Conclusion
+This project demonstrates the use of SQL Server and Tableau Desktop for hospitality data preparation, analysis, and dashboard visualization.
