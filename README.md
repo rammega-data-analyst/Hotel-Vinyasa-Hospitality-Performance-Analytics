@@ -8,6 +8,9 @@ This project analyzes hotel booking data to understand hospitality business perf
 - Understand booking trends and patterns.
 - Prepare data for analysis.
 - Present business insights through a Tableau dashboard.
+## Project Files
+- `Hotel_Vinyasa_Hospitality_Analytics_Dataset.xlsx` – Original hotel booking dataset.
+- `Cleaned Dataset.xlsx` – Final cleaned dataset.
 
 ## Tools & Technologies
 - SQL Server 2025 Express
@@ -32,9 +35,6 @@ This project analyzes hotel booking data to understand hospitality business perf
 ## Dashboard Preview
 ![Hotel Vinyasa Dashboard](Final%20Dashboard%20Screenshot.png)
 
-## Project Files
-- `Hotel_Vinyasa_Hospitality_Analytics_Dataset.xlsx` – Original hotel booking dataset.
-- `Cleaned Dataset.xlsx` – Final cleaned dataset.
 
 ## Conclusion
 
