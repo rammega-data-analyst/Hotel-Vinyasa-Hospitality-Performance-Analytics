@@ -12,7 +12,6 @@ This project analyzes hotel booking data to understand hospitality business perf
 ## Tools & Technologies
 - SQL Server 2025 Express
 - SQL Server Management Studio (SSMS 22)
-- SQL
 - Tableau Desktop
 
 ## Data Cleaning
@@ -36,7 +35,7 @@ This project analyzes hotel booking data to understand hospitality business perf
 ## Project Files
 - `Hotel_Vinyasa_Hospitality_Analytics_Dataset.xlsx` – Original hotel booking dataset.
 - `Cleaned Dataset.xlsx` – Final cleaned dataset.
-- `Final Dashboard Screenshot.png` – Tableau dashboard preview.
 
 ## Conclusion
-This project demonstrates the use of SQL Server and Tableau Desktop for hospitality data preparation, analysis, and dashboard visualization.
+
+This project provides insights into hotel operations and business performance through structured data analysis using SQL Server and Tableau. The analysis helps identify important trends, evaluate key metrics, and improve data-driven decision-making in the hospitality industry.
